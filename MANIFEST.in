@@ -1,0 +1,3 @@
+include CHANGELOG.md
+include PUBLISHING.md
+global-exclude __pycache__ *.py[cod]
